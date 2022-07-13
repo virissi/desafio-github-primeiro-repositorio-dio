@@ -1,5 +1,6 @@
-# desafio-github-primeiro-repositorio-dio
-Desafio de Projeto Sobre Git/GitHub
+# Dio-Desafio-Primeiro-Repositório
+Repósito criado para o Desagio de Projeto
 
-##Links Úteis
+## Links Úteis
 [Portugol Webstudio](https://portugol-webstudio.cubos.io/ide/)
+.
